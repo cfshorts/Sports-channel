@@ -1638,3 +1638,204 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809386&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=18629&extension=m3u8
 #EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/TURKEYFLAG.png", ☰☰☰☰ ┃TR┃ PAKET S SPORTS+ FHD ☰☰☰☰
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=18630&extension=m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ ASTRO CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809382&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STAR SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809383&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STAR SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809384&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTS 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809385&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ WILLOW CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809386&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ WILLOW CRICKET EXTRA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809387&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ ATN SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809388&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ FOX CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809389&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORTS CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809390&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809392&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809393&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809394&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809395&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SUPER SPORTS CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809391&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ TEN SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809396&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ A SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809397&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ PTV SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809398&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ GEO SUPER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809399&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRLIFE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809400&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRLIFE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809401&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRIIICLIFE MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809402&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ HUB SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809403&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ FLOW SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809404&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ RUSH SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809405&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ RUSH SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809406&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809407&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809408&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809409&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ JIO CRICKET ENGLISH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809411&extension=m3u8
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ CRICKET GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809410&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911320&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911321&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911322&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png", ┃PK┃ PTV SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=373120&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png", ┃PK┃ PTV SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911324&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png", ┃PK┃ PTV SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911325&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png", ┃PK┃ TEN SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911326&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png", ┃PK┃ TEN SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=373119&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png", ┃PK┃ TEN SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911327&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png", ┃PK┃ GEO SUPER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=373118&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/FAST SPORTS.png", ┃PK┃ FAST SPORTS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=911323&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827990&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 2 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827989&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png", ┃UK┃ DAZN 1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827993&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", ┃UK┃ LA LIGA TV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827985&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MUTV.png", ┃UK┃ MUTV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827988&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/LFCTV.png", ┃UK┃ LFC 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827987&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/RACINGTV.png", ┃UK┃ RACING 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=827986&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png", ┃UK┃ UFC 24/7 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=828041&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/wwe-network.png", ┃UK┃ WWE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=828042&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY1.png", ┃UK┃ SUPERSPORT VARIETY 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396886&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY2.png", ┃UK┃ SUPERSPORT VARIETY 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396885&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY3.png", ┃UK┃ SUPERSPORT VARIETY 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396884&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY4.png", ┃UK┃ SUPERSPORT VARIETY 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396883&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTFOOTBALL.png", ┃UK┃ SUPERSPORT FOOTBALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396882&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTPREMIERLEAGUE.png", ┃UK┃ SUPERSPORT PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396881&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTLALIGA.png", ┃UK┃ SUPERSPORT LA LIGA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396880&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTTENNIS.png", ┃UK┃ SUPERSPORT TENNIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396878&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTRUGBY.png", ┃UK┃ SUPERSPORT RUGBY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396877&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTCRICKET.png", ┃UK┃ SUPERSPORT CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396876&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGOLF.png", ┃UK┃ SUPERSPORT GOLF HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396875&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT MOTORSPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396874&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTBLITZ.png", ┃UK┃ SUPERSPORT BLITZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396873&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTMAXIMO1.png", ┃UK┃ SUPERSPORT MAXIMO 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396872&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT PLAY 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396871&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGRANDSTAND.png", ┃UK┃ SUPERSPORT GRANDSTAND HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396870&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT PSL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396869&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=396868&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1174235&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1174236&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1174237&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1174238&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1174239&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png", ☰☰☰☰ ┃UK┃ SKY SPORTS HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312174&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png", ┃UK┃ SKY SPORTS NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312175&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png", ┃UK┃ SKY SPORTS MAIN EVENT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312176&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312177&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png", ┃UK┃ SKY SPORTS FOOTBALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312178&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png", ┃UK┃ SKY SPORTS MIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312179&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png", ┃UK┃ SKY SPORTS ACTION / NFL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312180&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png", ┃UK┃ SKY SPORTS F1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312181&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png", ┃UK┃ SKY SPORTS RACING HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312182&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png", ┃UK┃ SKY SPORTS TENNIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312186&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png", ┃UK┃ SKY SPORTS GOLF HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312183&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png", ┃UK┃ SKY SPORTS CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312184&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png", ┃UK┃ SKY SPORTS+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312185&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING TV.png", ┃UK┃ RACING TV UK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312829&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png", ┃UK┃ RACING.COM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312830&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png", ┃UK┃ LFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312834&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312835&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LA LIGA TV.png", ┃UK┃ LA LIGA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312836&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png", ┃UK┃ REAL MADRID TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312833&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png", ┃UK┃ UFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312832&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/WWE.png", ┃UK┃ WWE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312831&extension=m3u8
+
+
+
+
