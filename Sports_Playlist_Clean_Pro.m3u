@@ -50,17 +50,17 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373202&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373201&extension=m3u8
 #EXTINF:-1 group-title="┃ASIA┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/STAR SPORTS TAMIL.png",┃SPORTS┃ STAR SPORTS TAMIL
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373195&extension=m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ STAR SPORTS 1
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://imgs.search.brave.com/ky0eQHsV9dQVBULyg01wyrGsQGep0jdOsH1wSr6dFU4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2luZHBuZy5jb20v/cGljYy9tLzE2My0x/NjMwMTg3X3N0YXIt/c3BvcnRzLTEtbG9n/by1oZC1wbmctZG93/bmxvYWQucG5n",┃WC┃ STAR SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809383&extension=m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ STAR SPORTS 2
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://imgs.search.brave.com/lN99PKE3Yhr5_mhPNZXXfzbKiFAMf3D0cDz9yq0e-R0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmJzMjQub3JnL3Vw/bG9hZC9pbWFnZXMv/d2F0ZXJtYXJrL2Ny/aWNrZXRsXzI2LTA0/LTI1XygwMSkuanBn",┃WC┃ STAR SPORTS 2
 
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ A SPORTS
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.pn",┃WC┃ A SPORTS
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809397&extension=m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ ASTRO CRICKET
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://imgs.search.brave.com/gkTOTLYVYm5Qa3Y1CIt_OYtTdBdZUcW49ENfWB5JCms/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2ZjL0FzdHJvX0Ny/aWNrZXRfKDIwMjQp/LnBuZw",┃WC┃ ASTRO CRICKET
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809382&extension=m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ ATN SPORTS
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809388&extension=m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ CRICKET GOLD
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://imgs.search.brave.com/4z5ynTcHkM7EsB0WS6LXvjk5oF1IXwS4Ts5lx_ui1E4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvNTAwcC8x/Ny8yNi9jcmlja2V0/LXNoaWVsZC1iYWRn/ZS12ZWN0b3ItNTkw/MTcyNi5qcGc",┃WC┃ CRICKET GOLD
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809410&extension=m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ FLOW SPORTS
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809404&extension=m3u8
@@ -78,6 +78,12 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809398&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809405&extension=m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",┃WC┃ RUSH SPORTS 2
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809406&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911322&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911320&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911321&extension=m3u8
 
 
 
@@ -142,12 +148,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237603&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392117&extension=m3u8
 #EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png",┃NL┃ ZIGGO SPORT 8K+
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392231&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911322&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911320&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911321&extension=m3u8
+
 #EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/FAST SPORTS.png",┃PK┃ FAST SPORTS
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911323&extension=m3u8
 #EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png",┃PK┃ GEO SUPER
