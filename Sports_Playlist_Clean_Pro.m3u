@@ -118,6 +118,54 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=18629&extension=
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=18630&extension=m3u8
 
 
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",┃NL┃ ZIGGO SPORT 1 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237598&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png",┃NL┃ ZIGGO SPORT 2 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237599&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png",┃NL┃ ZIGGO SPORT 2 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392115&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png",┃NL┃ ZIGGO SPORT 3 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237601&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png",┃NL┃ ZIGGO SPORT 3 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392120&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",┃NL┃ ZIGGO SPORT 4 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237600&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",┃NL┃ ZIGGO SPORT 4 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392119&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",┃NL┃ ZIGGO SPORT 5 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237602&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",┃NL┃ ZIGGO SPORT 5 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392121&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png",┃NL┃ ZIGGO SPORT 6 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237603&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png",┃NL┃ ZIGGO SPORT 6 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392117&extension=m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png",┃NL┃ ZIGGO SPORT 8K+
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392231&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911322&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911320&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911321&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/FAST SPORTS.png",┃PK┃ FAST SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911323&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png",┃PK┃ GEO SUPER
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373118&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png",┃PK┃ PTV SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911325&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png",┃PK┃ PTV SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373120&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png",┃PK┃ PTV SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911324&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png",┃PK┃ TEN SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911327&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png",┃PK┃ TEN SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911326&extension=m3u8
+#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png",┃PK┃ TEN SPORTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373119&extension=m3u8
+
+
 
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 1.png",┃DE┃ SKY SPORT 1
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1149461&extension=m3u8
@@ -140,6 +188,39 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1149468&extensio
 #EXTINF:-1 group-title="┃DE┃ SKY SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT 9.png",┃DE┃ SKY SPORT 9
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1149469&extension=m3u8
 
+
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA E SPORT 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558969&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA FIGHT 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558967&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1115&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 10 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558964&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1114&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1113&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1112&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1111&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1110&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 7
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558961&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 8
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558962&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 9
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558963&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=559133&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 1 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558965&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=559134&extension=m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 2 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558966&extension=m3u8
 
 #EXTINF:-1 group-title="┃PL┃ ELEVEN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ ELEVEN SPORTS/ELEVEN SPORTS 1.png",┃PL┃ ELEVEN SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1729223&extension=m3u8
@@ -518,6 +599,141 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=396868&extension
 #EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTBLITZ.png",┃UK┃ SUPERSPORT BLITZ
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=396873&extension=m3u8
 
+
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174426&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1890&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671508&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174427&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1889&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671509&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174428&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1888&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671510&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174429&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1887&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671511&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648352&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174430&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1886&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671512&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174265&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1885&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671513&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 7
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174264&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 7
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1884&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 8
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174263&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 8
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1883&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 9
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1882&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 9
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671507&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT HIGHLIGHTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1891&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT HIGHLIGHTS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671498&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png",┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242084&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS AEK
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699597&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png",┃GR┃ COSMOTE SPORT SL PASS AEK
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242086&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699598&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242085&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS PANATHINAIKOS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699599&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png",┃GR┃ NOVA SPORT NEWS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174431&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=173185&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193070&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648348&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=173186&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1878&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648347&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174271&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1877&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648346&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174272&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1876&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648345&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1875&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193074&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648344&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174273&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699928&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS 6
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648343&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 1
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193071&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 2
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193072&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 3
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193073&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 4
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=724019&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png",┃GR┃ NOVA SPORTS NEWS
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1880&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1879&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=663683&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648349&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1142146&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1874&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648351&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=56829&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174254&extension=m3u8
+#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648350&extension=m3u8
+
+
 #EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGOLF.png",┃UK┃ SUPERSPORT GOLF
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=396875&extension=m3u8
 #EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGRANDSTAND.png",┃UK┃ SUPERSPORT GRANDSTAND
@@ -834,170 +1050,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=760965&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=760968&extension=m3u8
 #EXTINF:-1 group-title="┃DE┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGITAL EDGE.png",┃DE┃ SPORTDIGITAL EDGE
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1149508&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174426&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1890&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671508&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174427&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1889&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671509&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174428&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1888&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671510&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174429&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1887&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671511&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648352&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174430&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1886&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671512&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174265&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1885&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671513&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 7
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174264&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 7
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1884&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 8
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174263&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 8
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1883&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 9
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1882&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT 9
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671507&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT HIGHLIGHTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1891&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png",┃GR┃ COSMOTE SPORT HIGHLIGHTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=671498&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png",┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242084&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS AEK
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699597&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png",┃GR┃ COSMOTE SPORT SL PASS AEK
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242086&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699598&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=242085&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png",┃GR┃ COSMOTE SPORT SL PASS PANATHINAIKOS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699599&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png",┃GR┃ NOVA SPORT NEWS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174431&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=173185&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193070&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648348&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=173186&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1878&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648347&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174271&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1877&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648346&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174272&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1876&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648345&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1875&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193074&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648344&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174273&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=699928&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648343&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193071&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193072&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=193073&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS EXTRA 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=724019&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png",┃GR┃ NOVA SPORTS NEWS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1880&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1879&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=663683&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",┃GR┃ NOVA SPORTS PREMIER LEAGUE
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648349&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1142146&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1874&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",┃GR┃ NOVA SPORTS PRIME
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648351&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=56829&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=174254&extension=m3u8
-#EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png",┃GR┃ NOVA SPORTS START
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1648350&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA E SPORT 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558969&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA FIGHT 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558967&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1115&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 10 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558964&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1114&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 3
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1113&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 4
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1112&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 5
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1111&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 6
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1110&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 7
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558961&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 8
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558962&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ ARENA SPORT 9
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558963&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 1
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=559133&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 1 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558965&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 2
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=559134&extension=m3u8
-#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",┃HR┃ MAX SPORT 2 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=558966&extension=m3u8
+
 #EXTINF:-1 group-title="┃HR┃ SPORT KLUB" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png",┃HR┃ SPORT KLUB
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1109&extension=m3u8
 #EXTINF:-1 group-title="┃HR┃ SPORT KLUB" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png",┃HR┃ SPORT KLUB 1
@@ -1376,52 +1429,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392124&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1152827&extension=m3u8
 #EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/XITEHD.png",┃NL┃ XITE 8K+
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392122&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",┃NL┃ ZIGGO SPORT 1 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237598&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png",┃NL┃ ZIGGO SPORT 2 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237599&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png",┃NL┃ ZIGGO SPORT 2 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392115&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png",┃NL┃ ZIGGO SPORT 3 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237601&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png",┃NL┃ ZIGGO SPORT 3 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392120&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",┃NL┃ ZIGGO SPORT 4 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237600&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",┃NL┃ ZIGGO SPORT 4 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392119&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",┃NL┃ ZIGGO SPORT 5 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237602&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",┃NL┃ ZIGGO SPORT 5 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392121&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ SPORT TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png",┃NL┃ ZIGGO SPORT 6 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=237603&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png",┃NL┃ ZIGGO SPORT 6 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392117&extension=m3u8
-#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png",┃NL┃ ZIGGO SPORT 8K+
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=392231&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911322&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911320&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png",┃PK┃ A SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911321&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/FAST SPORTS.png",┃PK┃ FAST SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911323&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png",┃PK┃ GEO SUPER
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373118&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png",┃PK┃ PTV SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911325&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png",┃PK┃ PTV SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373120&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png",┃PK┃ PTV SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911324&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png",┃PK┃ TEN SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911327&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png",┃PK┃ TEN SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=911326&extension=m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png",┃PK┃ TEN SPORTS
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373119&extension=m3u8
+
 #EXTINF:-1 group-title="┃PL┃ POLSAT SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ POLSAT SPORT/E-SPORT.png",┃PL┃ E-SPORT
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1729203&extension=m3u8
 
