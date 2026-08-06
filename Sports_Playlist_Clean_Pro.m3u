@@ -33,6 +33,14 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=36067&extension=
 #EXTINF:-1 group-title="┃AT┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/Sky_Sport_Austria_HD_Logo_2016.png",┃AT┃ SKY SPORT AUSTRIA 7
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=36068&extension=m3u8
 
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",┃UK┃ PREMIER SPORTS 1 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827990&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",┃UK┃ PREMIER SPORTS 2 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827989&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/LFCTV.png",┃UK┃ LFC 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827987&extension=m3u8
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MUTV.png",┃UK┃ MUTV 8K
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827988&extension=m3u8
 
 #EXTINF:-1 group-title="┃ASIA┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/starsports1.png",┃SPORTS┃ STAR SPORTS 1 ENGLISH
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373206&extension=m3u8
@@ -99,7 +107,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809385&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809396&extension=m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7Qfw83fW8mV0QGmaJGXsk4equcBUTd7z092zbaOqyrEd2x2kpc1yNgpB&s=10",┃WC┃ WILLOW CRICKET
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809386&extension=m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="WILLOW CRICKET EXTRA",┃WC┃ WILLOW CRICKET EXTRA
+#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7Qfw83fW8mV0QGmaJGXsk4equcBUTd7z092zbaOqyrEd2x2kpc1yNgpB&s=10",┃WC┃ WILLOW CRICKET EXTRA
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809387&extension=m3u8
 
 
@@ -1651,14 +1659,8 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827993&extension
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=1313560&extension=m3u8
 #EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",┃UK┃ LA LIGA TV 8K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827985&extension=m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/LFCTV.png",┃UK┃ LFC 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827987&extension=m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MUTV.png",┃UK┃ MUTV 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827988&extension=m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",┃UK┃ PREMIER SPORTS 1 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827990&extension=m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png",┃UK┃ PREMIER SPORTS 2 8K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827989&extension=m3u8
+
+
 #EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/RACINGTV.png",┃UK┃ RACING 8K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=827986&extension=m3u8
 #EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png",┃UK┃ UFC 24/7 8K
